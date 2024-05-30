@@ -1,0 +1,13 @@
+{
+  "Jwt": {
+    "Key": "javainuse-secret-key-javainuse-secret-key-javainuse-secret-key-javainuse-secret-key",
+    "Issuer": "https://localhost:7093/",
+    "Audience": "https://localhost:7093/"
+  },
+  "ConnectionStrings": [
+    {
+      "ConStringName": "BookingMRAppDb",
+      "ConStringValue": "Server=localhost;Port=5432;Database=SmartInspection;User Id=postgres;Password=m3R@TUS;"
+    }
+  ]
+}
