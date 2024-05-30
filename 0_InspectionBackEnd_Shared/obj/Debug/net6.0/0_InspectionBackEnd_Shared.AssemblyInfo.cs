@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("0_InspectionBackEnd_Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76abea9ade5ac6793c2b77808255e9ad1f74a359")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b075a6a3622b87baece79a9c07eae5c4536f59")]
 [assembly: System.Reflection.AssemblyProductAttribute("0_InspectionBackEnd_Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("0_InspectionBackEnd_Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

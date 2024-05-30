@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T1FuuVx+UZqfetkdeQPJdToiTHSCp7bqJltH/VW7vzDTXLptnaZ4Tp8sqpRbRHtwfhxpBiD0c4ipjGYIYKiyqg==",
+  "dgSpecHash": "LadYaFlah26bCRMPrmL+DY9L6ZZpujz8FEYsAd7EZsmggH2n25tUYXUZ65NdtCgcX0lHfC5ykpSxAo2nELikbQ==",
   "success": true,
-  "projectFilePath": "D:\\AplikasiSkripsi\\InspectionBackEnd\\4_InspectionBackEnd_Api\\4_InspectionBackEnd_Api.csproj",
+  "projectFilePath": "D:\\AplikasiSkripsi\\New folder\\test\\4_InspectionBackEnd_Api\\4_InspectionBackEnd_Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\anglesharp\\1.0.4\\anglesharp.1.0.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\crypthography\\1.0.0\\crypthography.1.0.0.nupkg.sha512",

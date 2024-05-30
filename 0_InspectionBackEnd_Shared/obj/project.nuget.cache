@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a70DTm/57y7lTowXeCd5YHKJQtLo33r/u3tkLfOpwKfaBMaSnpujT8N+xOdPnm3s8YD+u4O9acQq9zZ6UM64zg==",
+  "dgSpecHash": "ihy6yik/YiywaiNSKg3XXB+M1IiK3LLq1Phvvy+EvT0YpMpVzNIEx3SMdjvfoZvaIckcnJ5UjdeYoLvxBLMt4Q==",
   "success": true,
-  "projectFilePath": "D:\\AplikasiSkripsi\\InspectionBackEnd - Copy\\0_InspectionBackEnd_Shared\\0_InspectionBackEnd_Shared.csproj",
+  "projectFilePath": "D:\\AplikasiSkripsi\\New folder\\test\\0_InspectionBackEnd_Shared\\0_InspectionBackEnd_Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\crypthography\\1.0.0\\crypthography.1.0.0.nupkg.sha512"
   ],

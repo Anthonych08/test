@@ -3279,11 +3279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AplikasiSkripsi\\InspectionBackEnd - Copy\\2_InspectionBackEnd_Application\\2_InspectionBackEnd_Application.csproj",
+      "projectUniqueName": "D:\\AplikasiSkripsi\\New folder\\test\\2_InspectionBackEnd_Application\\2_InspectionBackEnd_Application.csproj",
       "projectName": "2_InspectionBackEnd_Application",
-      "projectPath": "D:\\AplikasiSkripsi\\InspectionBackEnd - Copy\\2_InspectionBackEnd_Application\\2_InspectionBackEnd_Application.csproj",
+      "projectPath": "D:\\AplikasiSkripsi\\New folder\\test\\2_InspectionBackEnd_Application\\2_InspectionBackEnd_Application.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\AplikasiSkripsi\\InspectionBackEnd - Copy\\2_InspectionBackEnd_Application\\obj\\",
+      "outputPath": "D:\\AplikasiSkripsi\\New folder\\test\\2_InspectionBackEnd_Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -3307,8 +3307,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\AplikasiSkripsi\\InspectionBackEnd - Copy\\1_InspectionBackEnd_Domain\\1_InspectionBackEnd_Domain.csproj": {
-              "projectPath": "D:\\AplikasiSkripsi\\InspectionBackEnd - Copy\\1_InspectionBackEnd_Domain\\1_InspectionBackEnd_Domain.csproj"
+            "D:\\AplikasiSkripsi\\New folder\\test\\1_InspectionBackEnd_Domain\\1_InspectionBackEnd_Domain.csproj": {
+              "projectPath": "D:\\AplikasiSkripsi\\New folder\\test\\1_InspectionBackEnd_Domain\\1_InspectionBackEnd_Domain.csproj"
             }
           }
         }

@@ -5199,11 +5199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AplikasiSkripsi\\InspectionBackEnd\\4_InspectionBackEnd_Api\\4_InspectionBackEnd_Api.csproj",
+      "projectUniqueName": "D:\\AplikasiSkripsi\\New folder\\test\\4_InspectionBackEnd_Api\\4_InspectionBackEnd_Api.csproj",
       "projectName": "4_InspectionBackEnd_Api",
-      "projectPath": "D:\\AplikasiSkripsi\\InspectionBackEnd\\4_InspectionBackEnd_Api\\4_InspectionBackEnd_Api.csproj",
+      "projectPath": "D:\\AplikasiSkripsi\\New folder\\test\\4_InspectionBackEnd_Api\\4_InspectionBackEnd_Api.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\AplikasiSkripsi\\InspectionBackEnd\\4_InspectionBackEnd_Api\\obj\\",
+      "outputPath": "D:\\AplikasiSkripsi\\New folder\\test\\4_InspectionBackEnd_Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -5227,11 +5227,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\AplikasiSkripsi\\InspectionBackEnd\\2_InspectionBackEnd_Application\\2_InspectionBackEnd_Application.csproj": {
-              "projectPath": "D:\\AplikasiSkripsi\\InspectionBackEnd\\2_InspectionBackEnd_Application\\2_InspectionBackEnd_Application.csproj"
+            "D:\\AplikasiSkripsi\\New folder\\test\\2_InspectionBackEnd_Application\\2_InspectionBackEnd_Application.csproj": {
+              "projectPath": "D:\\AplikasiSkripsi\\New folder\\test\\2_InspectionBackEnd_Application\\2_InspectionBackEnd_Application.csproj"
             },
-            "D:\\AplikasiSkripsi\\InspectionBackEnd\\3_InspectionBackEnd_Infrastructure\\3_InspectionBackEnd_Infrastructure.csproj": {
-              "projectPath": "D:\\AplikasiSkripsi\\InspectionBackEnd\\3_InspectionBackEnd_Infrastructure\\3_InspectionBackEnd_Infrastructure.csproj"
+            "D:\\AplikasiSkripsi\\New folder\\test\\3_InspectionBackEnd_Infrastructure\\3_InspectionBackEnd_Infrastructure.csproj": {
+              "projectPath": "D:\\AplikasiSkripsi\\New folder\\test\\3_InspectionBackEnd_Infrastructure\\3_InspectionBackEnd_Infrastructure.csproj"
             }
           }
         }
