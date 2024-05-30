@@ -1,0 +1,13 @@
+{
+  "Jwt": {
+    "Key": "javainuse-secret-key-javainuse-secret-key-javainuse-secret-key-javainuse-secret-key",
+    "Issuer": "https://localhost:7093/",
+    "Audience": "https://localhost:7093/"
+  },
+  "ConnectionStrings": [
+    {
+      "ConStringName": "BookingMRAppDb",
+      "ConStringValue": "Server=monorail.proxy.rlwy.net;Port=10223;Database=railway;User Id=postgres;Password=ntqkwOlRnxyTwbrCqoHHdHuoHujDKPGk;"
+    }
+  ]
+}

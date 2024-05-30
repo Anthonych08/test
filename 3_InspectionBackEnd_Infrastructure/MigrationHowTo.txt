@@ -1,0 +1,11 @@
+
+--Create Migration
+Add-Migration Migration_1 -Context InspectionDatabaseContext -StartupProject 4_InspectionBackEnd_Api -Project 3_InspectionBackEnd_Infrastructure -OutputDir Migrations/InspectionDatabase
+
+--Run Migration
+Update-Database -Context InspectionDatabaseContext -Project 3_InspectionBackEnd_Infrastructure -StartupProject 4_InspectionBackEnd_Api
+
+
+
+
+
