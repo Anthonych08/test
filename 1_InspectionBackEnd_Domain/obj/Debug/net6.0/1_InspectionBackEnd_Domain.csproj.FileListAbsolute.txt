@@ -1,0 +1,16 @@
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\bin\Debug\net6.0\1_InspectionBackEnd_Domain.deps.json
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\bin\Debug\net6.0\1_InspectionBackEnd_Domain.dll
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\bin\Debug\net6.0\1_InspectionBackEnd_Domain.pdb
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\bin\Debug\net6.0\0_InspectionBackEnd_Shared.dll
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\bin\Debug\net6.0\0_InspectionBackEnd_Shared.pdb
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\obj\Debug\net6.0\1_InspectionBackEnd_Domain.csproj.AssemblyReference.cache
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\obj\Debug\net6.0\1_InspectionBackEnd_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\obj\Debug\net6.0\1_InspectionBackEnd_Domain.AssemblyInfoInputs.cache
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\obj\Debug\net6.0\1_InspectionBackEnd_Domain.AssemblyInfo.cs
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\obj\Debug\net6.0\1_InspectionBackEnd_Domain.csproj.CoreCompileInputs.cache
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\obj\Debug\net6.0\1_InspectionBackEnd_Domain.csproj.CopyComplete
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\obj\Debug\net6.0\1_InspectionBackEnd_Domain.dll
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\obj\Debug\net6.0\refint\1_InspectionBackEnd_Domain.dll
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\obj\Debug\net6.0\1_InspectionBackEnd_Domain.pdb
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\obj\Debug\net6.0\ref\1_InspectionBackEnd_Domain.dll
+D:\AplikasiSkripsi\InspectionBackEnd\1_InspectionBackEnd_Domain\obj\Debug\net6.0\1_InspectionBackEnd_Domain.sourcelink.json

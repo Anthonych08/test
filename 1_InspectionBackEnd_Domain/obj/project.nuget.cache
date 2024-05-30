@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lcR7THWiSPaQTsOTKnj/Q8xDfz9am75R55HfXt5mRlP/kZvuxuEv1n6iyvLKPxUsVEmZdyeK9amE42mI+aClvA==",
+  "success": true,
+  "projectFilePath": "D:\\AplikasiSkripsi\\InspectionBackEnd - Copy\\1_InspectionBackEnd_Domain\\1_InspectionBackEnd_Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\crypthography\\1.0.0\\crypthography.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
