@@ -1,0 +1,13 @@
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\bin\Debug\net6.0\0_InspectionBackEnd_Shared.deps.json
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\bin\Debug\net6.0\0_InspectionBackEnd_Shared.dll
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\bin\Debug\net6.0\0_InspectionBackEnd_Shared.pdb
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\obj\Debug\net6.0\0_InspectionBackEnd_Shared.csproj.AssemblyReference.cache
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\obj\Debug\net6.0\0_InspectionBackEnd_Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\obj\Debug\net6.0\0_InspectionBackEnd_Shared.AssemblyInfoInputs.cache
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\obj\Debug\net6.0\0_InspectionBackEnd_Shared.AssemblyInfo.cs
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\obj\Debug\net6.0\0_InspectionBackEnd_Shared.csproj.CoreCompileInputs.cache
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\obj\Debug\net6.0\0_InspectionBackEnd_Shared.dll
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\obj\Debug\net6.0\refint\0_InspectionBackEnd_Shared.dll
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\obj\Debug\net6.0\0_InspectionBackEnd_Shared.pdb
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\obj\Debug\net6.0\ref\0_InspectionBackEnd_Shared.dll
+D:\AplikasiSkripsi\InspectionBackEnd\0_InspectionBackEnd_Shared\obj\Debug\net6.0\0_InspectionBackEnd_Shared.sourcelink.json
